@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NasaEpicDesktopImage")]
+[assembly: AssemblyTitle("NasaApi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NasaEpicDesktopImage")]
+[assembly: AssemblyProduct("NasaApi")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fe843d49-7060-48e2-bba5-ff444cbc4179")]
+[assembly: Guid("14b1b363-ad4a-464f-9274-94d6dcbaca9e")]
 
 // Version information for an assembly consists of the following four values:
 //

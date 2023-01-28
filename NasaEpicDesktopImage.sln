@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaEpicDesktopImage", "NasaEpicDesktopImage\NasaEpicDesktopImage.csproj", "{71B3F3E1-1FC7-4BFD-9F99-2AFEA606B386}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaEpicDesktopImage", "NasaEpicDesktopImage\NasaEpicDesktopImage.csproj", "{FE843D49-7060-48E2-BBA5-FF444CBC4179}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{71B3F3E1-1FC7-4BFD-9F99-2AFEA606B386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71B3F3E1-1FC7-4BFD-9F99-2AFEA606B386}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71B3F3E1-1FC7-4BFD-9F99-2AFEA606B386}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71B3F3E1-1FC7-4BFD-9F99-2AFEA606B386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE843D49-7060-48E2-BBA5-FF444CBC4179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE843D49-7060-48E2-BBA5-FF444CBC4179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE843D49-7060-48E2-BBA5-FF444CBC4179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE843D49-7060-48E2-BBA5-FF444CBC4179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
